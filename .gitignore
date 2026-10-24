@@ -1,0 +1,11 @@
+# Archivos pesados o de terceros: NO se suben, se descargan con los enlaces del README
+*.gguf
+koboldcpp.exe
+koboldcpp
+python portable/
+voz/
+proyectos/
+
+# Generados al usar NoCloud
+nocloud-voz.log
+*.wav
