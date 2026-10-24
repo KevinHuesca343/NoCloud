@@ -132,6 +132,6 @@ NoCloud **integra** herramientas de terceros; no las modifica ni las incluye en 
 - [Aider](https://aider.chat).
 - [Piper](https://github.com/rhasspy/piper) y sus voces (el repositorio de Piper está archivado desde octubre de 2025).
 
-Revisa la licencia de cada componente antes de redistribuirlo. Los scripts, la documentación y el nombre NoCloud de este repositorio son obra de **DevInsights** y se publican bajo licencia MIT (ver `LICENSE`).
+Revisa la licencia de cada componente antes de redistribuirlo. Los scripts, la documentación y el nombre NoCloud de este repositorio son obra de Kevin Huesca **(DevInsights)** y se publican bajo licencia MIT (ver `LICENSE`).
 
 El logo se generó con una herramienta de IA a partir de la idea de su autor.
